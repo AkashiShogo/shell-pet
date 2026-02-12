@@ -1,7 +1,7 @@
 # 🥚 ShellPet
 
-> Raise your terminal pet with your commands.
-> コマンド履歴を食べて育つ、CLIエンジニアのための育成ゲーム。
+Raise your terminal pet with your commands.
+コマンド履歴を食べて育つ、CLIエンジニアのための育成ゲーム。
 
 ## 📖 概要 (Overview)
 ShellPetは、あなたのターミナル作業そのものを「ゲーム」に変えるOSSプロダクトです。
