@@ -25,5 +25,14 @@ Gitを使えば攻撃力が、Dockerを使えば防御力が上がります。
 - Lip Gloss (Styling)
 
 ---
-License: MIT
-Author: @[あなたのユーザー名]
+Author: @AkashiShogo
+
+## 📜 License
+This project is licensed under the **CC BY-NC-SA 4.0** license.
+(クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス)
+
+❌ **Commercial use is strictly prohibited.**
+(商用利用は厳禁です。個人であっても営利目的での利用はできません。)
+
+✅ **Personal use & Study is welcome!**
+(個人的な趣味、学習、フォークして遊ぶことは大歓迎です！)
